@@ -1,0 +1,6 @@
+\input texinfo
+
+@deffn {Command} echo options
+@end deffn
+
+@bye
